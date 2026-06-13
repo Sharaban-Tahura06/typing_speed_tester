@@ -28,7 +28,7 @@ Test how fast and accurately you can type!
 
 1. Clone the repository:
 ```bash
-   git clone https://github.com/YOUR_USERNAME/typing_speed_tester.git
+   git clone https://github.com/Sharaban-Tahura06/typing_speed_tester\
 ```
 
 2. Go into the project folder:
